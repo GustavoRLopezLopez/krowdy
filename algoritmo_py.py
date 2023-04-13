@@ -1,3 +1,7 @@
+#############################################################################
+# pip install hermetrics   
+#############################################################################
+
 def homologo(texto_input):
     texto_output=''
     dfObj = pd.DataFrame(columns=['Nombre', 'value', 'simil'])
